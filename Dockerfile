@@ -1,4 +1,4 @@
-#I hope this works
+#Author: Olivia L.
 
 #Specify the image we are building off of
 FROM quay.io/jupyter/r-notebook:2023-11-19
